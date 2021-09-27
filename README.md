@@ -7,7 +7,6 @@
 ```
 
 git clone https://github.com/ketanmalik/rockstar-webappmvc.git
-
 ```
 
 ### Build Project (Optional)
