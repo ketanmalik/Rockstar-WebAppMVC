@@ -1,0 +1,164 @@
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.Development.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.deps.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.dev.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.AssemblyReference.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfoInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CoreCompileInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.Manifest.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.xml
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/scopedcss/bundle/rockstar-webappmvc.styles.css
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.input.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.output.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorCoreGenerate.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.genruntimeconfig.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CopyComplete
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/RaatanLambiyan.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Sugar.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.Development.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.deps.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.dev.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.AssemblyReference.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfoInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CoreCompileInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.Manifest.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.xml
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/scopedcss/bundle/rockstar-webappmvc.styles.css
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.input.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.output.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorCoreGenerate.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/RaatanLambiyan.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Sugar.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.genruntimeconfig.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CopyComplete
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.Development.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.deps.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.dev.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.AssemblyReference.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfoInputs.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CoreCompileInputs.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.Manifest.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.xml
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/scopedcss/bundle/rockstar-webappmvc.styles.css
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.input.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.output.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorCoreGenerate.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/RaatanLambiyan.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Sugar.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.genruntimeconfig.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CopyComplete
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.Development.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/appsettings.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.deps.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.runtimeconfig.dev.json
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/bin/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.AssemblyReference.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfoInputs.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.AssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CoreCompileInputs.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorAssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.Manifest.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/staticwebassets/rockstar-webappmvc.StaticWebAssets.xml
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/scopedcss/bundle/rockstar-webappmvc.styles.css
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.input.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.TagHelpers.output.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorCoreGenerate.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/GirlsLikeYou.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Home/SleepOnTheFloor.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.RazorTargetAssemblyInfo.cs
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.Views.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/ref/rockstar-webappmvc.dll
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.pdb
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.genruntimeconfig.cache
+/Users/ketanmalik/Library/Mobile Documents/com~apple~CloudDocs/Macbook/Neu Study Material/Sem5/DevOps/Assignments/Assignment2/rockstar-webappmvc/obj/Debug/net5.0/rockstar-webappmvc.csproj.CopyComplete
